@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 # Define text formatting variables
 green=$(tput setaf 2)
